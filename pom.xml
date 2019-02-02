@@ -7,6 +7,7 @@
     <groupId>com.giggs13</groupId>
     <artifactId>jackson-databind-json-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
     <name>jackson-databind-json-demo</name>
 
